@@ -1,14 +1,9 @@
-# Soft-Robots
-Neste Repositório encontra-se um tutorial de como fazer o seu próprio atuador mole.
+# Soft Robotics Hands-On
+Neste repositório encontra-se um tutorial de como fazer o seu próprio atuador mole.
 
-# Soft Robotics
+# Soft Robot
+_Soft Robots_ é uma área de estudo nova, derivada da robótica. A tradução literal é robôs moles ou robôs complacentes. A construção dos robôs complacentes é feita com materiais elásticos como borrachas, elastômeros, silicones e entre outros.
 
- _Soft Robots_ é uma área de estudo nova, ainda em ascensão, derivada da robótica. A tradução literal é robôs moles ou robôs complacentes. Sua construção é diferente daquela que normalmente vemos nos robôs convencionais visto que são construídos com materiais com características elásticas, tais como: silicone, borrachas, polímeros e entre outros componentes. Esses materiais oferecem características interessantes como:
-- Alta adaptabilidade;
-- Ductilidade;
-- Manipulação de diferentes objetos;
+Esses materiais dão características que não se encontram nos robôs tradicionais como a alta capacidade de adaptação, segurança, a menor quantidade de peças de fabricação, entre outros. A sua adaptabilidade se dá pelo fato de que o material complacente se deforma conforme as pressões exercidas sobre ele, ou seja, o robô mole tem a capacidade de se deformar seguindo a geometria de um objeto, dando a possibilidade de pegar e manipular objetos frágeis sem que os mesmos sejam danificados.
 
-Entretanto, devido às características do próprio material, esses tipos de robôs têm comportamento não linear.
-Um exemplo de ferramenta que utiliza esse tipo de componente é o Soft Robotics Toolkit feito na Universidade de Harvard. A montagem do kit, assim como explicações do seu funcionamento podem ser encontrados no seguinte site:
-
-<https://softroboticstoolkit.com/>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t0gpGU1Q1vM/0.jpg)](https://www.youtube.com/watch?v=t0gpGU1Q1vM)
