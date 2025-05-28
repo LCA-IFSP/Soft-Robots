@@ -9,3 +9,6 @@ Neste Repositório encontra-se um tutorial de como fazer o seu próprio atuador 
 - Manipulação de diferentes objetos;
 
 Entretanto, devido às características do próprio material, esses tipos de robôs têm comportamento não linear.
+Um exemplo de ferramenta que utiliza esse tipo de componente é o Soft Robotics Toolkit feito na Universidade de Harvard. A montagem do kit, assim como explicações do seu funcionamento podem ser encontrados no seguinte site:
+
+<https://softroboticstoolkit.com/>
